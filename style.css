@@ -1,0 +1,15 @@
+*{
+    background-color: antiquewhite;
+    height: 70vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+img{
+    height: 180px;
+    transition-duration: 1s;
+} 
+img:hover {
+    transform: rotate(60deg);
+
+}
